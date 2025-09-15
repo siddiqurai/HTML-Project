@@ -1,2 +1,2 @@
 # HTML Project
-HTML Media Player
+A Basic HTML Media Player
